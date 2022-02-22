@@ -1,2 +1,2 @@
 # test
-This is adescription
+This is a test repository for kiteAB's video.
